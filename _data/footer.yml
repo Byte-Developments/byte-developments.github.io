@@ -1,0 +1,37 @@
+---
+copyright: "&copy; 2023 Knowledge"
+description: Jekyll documentation theme for organizations, startups, and personal projects.
+menus:
+- heading: Services
+  links:
+  - text: Applications
+    url: "#"
+  - text: Work
+    url: "#"
+  - text: Custom
+    url: "#"
+- heading: Company
+  links:
+  - text: About 
+    url: "#"
+  - text: Jobs
+    url: "#"
+  - text: terms
+    url: "#"
+- heading: Resources
+  links:
+  - text: Blog
+    url: "#"
+  - text: Press
+    url: "#"
+  - text: Support
+    url: "#"
+- heading: Products
+  links:
+  - text: Mac Application
+    url: "#"
+  - text: Google Play
+    url: "#"
+  - text: Windows
+    url: "#"
+ 
