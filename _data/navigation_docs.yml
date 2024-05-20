@@ -1,0 +1,52 @@
+- title: Introduction
+  icon: square-3-stack-3d
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - getting-started
+  - doc-3
+  - doc-4
+  - doc-22
+  - doc-23
+
+- title: Code tutorials
+  icon: academic-cap
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - doc-5
+  - doc-6
+  - doc-7
+  - doc-8
+
+- title: How-to guides
+  icon: book-open
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - doc-9
+  - doc-10
+  - doc-11
+  - doc-12
+
+- title: Reference guides
+  icon: arrow-path-rounded-square
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - doc-13
+  - doc-14
+  - doc-15
+
+- title: Conceptual guides 
+  icon: cube-transparent
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - doc-16
+  - doc-17
+  - doc-18
+
+- title: Video library 
+  icon: play-circle
+  description: Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem consequatur et cum atque mollitia qui quia.
+  docs:
+  - doc-19
+  - doc-20
+  - doc-21
+ 
