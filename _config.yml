@@ -28,7 +28,6 @@ toc:
 plugins:
 - jekyll-seo-tag
 - jekyll-toc
-- jekyll-admin
 
 exclude:
 - vendor
