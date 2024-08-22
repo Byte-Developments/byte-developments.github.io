@@ -15,7 +15,10 @@ social:
   github: "#"
   dribbble: "#"
 
-google_analytics: 
+google_analytics:
+
+offline:
+  strategy: network-first-cache-fallback
 
 markdown: kramdown
 highlighter: rouge
