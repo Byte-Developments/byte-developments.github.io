@@ -16,7 +16,7 @@ gem "jekyll", "~> 4.3.2"
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-toc"
-  gem 'jekyll-offline', :git => 'git://github.com/jeremiak/jekyll-offline.git'
+  gem "jekyll-offline"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
