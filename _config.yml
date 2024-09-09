@@ -15,7 +15,7 @@ social:
   github: "#"
   dribbble: "#"
 
-google_analytics:
+google_analytics: "G-15L26T192K"
 
 offline:
   strategy: network-first-cache-fallback
