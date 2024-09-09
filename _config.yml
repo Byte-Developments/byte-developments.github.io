@@ -18,7 +18,7 @@ social:
 google_analytics:
 
 offline:
-  strategy: network-first-cache-fallback
+  strategy: cache-then-network
 
 markdown: kramdown
 highlighter: rouge
