@@ -17,7 +17,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-toc"
   gem "jekyll-offline", :git => "https://github.com/jeremiak/jekyll-offline.git"
-  gem "jekyll-docs"
+  gem "jekyll-openmoji"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

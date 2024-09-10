@@ -4,7 +4,7 @@ description: Jekyll documentation theme for organizations, startups, and persona
 url: 
 baseurl: 
 lang: en
-logo: /uploads/logo-main.svg
+logo: /uploads/logo-new.svg
 logo_mark: /uploads/logo-mark.svg
 permalink: "/:title/"
 
@@ -32,6 +32,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-toc
 - jekyll-offline
+- jekyll-openmoji
 
 exclude:
 - vendor
@@ -65,3 +66,12 @@ defaults:
     values:
       layout: doc
       toc: true
+
+emoji:
+  src: "https://cdn.honglin.eu.org"
+  asset: "/emojis/joypixels"
+  extension: "png"
+  img_attrs:
+    class: "emoji"
+    height: "25"
+    width: "25"
